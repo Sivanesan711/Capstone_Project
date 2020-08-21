@@ -1,0 +1,15 @@
+.cntct-style
+{
+  margin-top: 2em;
+  text-align: center;
+  background-color: blueviolet;
+  color: white;
+  width: 600px;
+  height: 450px;
+  padding-top: 1px;
+}
+
+.cntct-style h3
+{
+  margin-top: 2em;
+}

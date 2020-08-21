@@ -1,0 +1,15 @@
+.rqust-style
+{
+  margin-top: 1em;
+  text-align: center;
+  background-color: blueviolet;
+  color: white;
+  width: 600px;
+  height: 770px;
+  padding-top: 1px;
+}
+
+.rqust-style h3
+{
+  margin-top: 2em;
+}

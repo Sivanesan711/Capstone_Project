@@ -1,0 +1,30 @@
+<h2>Request Details</h2>
+
+<hr/>
+<div *ngIf="class">
+  <div>
+    <label><b>Name: </b></label> {{class.name}}
+  </div>
+  <div>
+    <label><b>Email: </b></label> {{class.email}}
+  </div>
+  <div>
+    <label><b>Mobile: </b></label> {{class.mobile}}
+  </div>
+  <div>
+    <label><b>Suggestion: </b></label> {{class.suggestion}}
+  </div>
+  <div>
+    <label><b>Estimated Rate: </b></label> {{class.estimated_rate}}
+  </div>
+  <div>
+    <label><b>Days to Complete: </b></label> {{class.days_to_complete}}
+  </div>
+  <div>
+    <label><b>Request Applied Date: </b></label> {{class.today_date}}
+  </div>
+</div>
+
+<br>
+<br>
+<button (click)="list()" class="btn btn-primary">Back to Class List</button><br>
