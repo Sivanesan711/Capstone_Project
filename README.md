@@ -1,4 +1,4 @@
-This is a simple app build with Angular and MySQL feel free to fork you own version
+This is a CAPSTONE FULL STACK APP  build with Angular and MySQL feel free to fork you own version
 
 Front-End:
 
